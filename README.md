@@ -67,15 +67,6 @@ To create a unified platform where alumni can reconnect, share opportunities, me
 - **Smooth Animations**: Enhanced UX with Framer Motion
 - **Progressive Web App**: App-like experience in the browser
 
-## 🔐 Demo Accounts
-
-Test the platform with these pre-configured demo accounts:
-
-| Role | Email | Password | Access Level |
-|------|-------|----------|--------------|
-| **Alumni User** | `demo@gradlink.ng` | `password123` | Standard user features |
-| **Institution Admin** | `institution@gradlink.ng` | `inst123` | Institution management |
-| **Super Admin** | `admin@gradlink.ng` | `admin123` | Full platform access |
 
 ## 🛠️ Tech Stack
 
@@ -371,7 +362,7 @@ We welcome contributions from the community! Please follow these steps:
 
 1. **Fork the repository**
    \`\`\`bash
-   git fork https://github.com/your-username/gradlink-platform.git
+   git fork https://github.com/AlfredPur01/gradlink-platform.git
    \`\`\`
 
 2. **Create a feature branch**
@@ -459,7 +450,7 @@ Need help? Reach out to us:
 - **Email**: support@gradlink.ng
 - **Documentation**: [docs.gradlink.ng](https://docs.gradlink.ng)
 - **Community Forum**: [community.gradlink.ng](https://community.gradlink.ng)
-- **GitHub Issues**: [Create an issue](https://github.com/your-username/gradlink-platform/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/AlfredPur01/gradlink-platform/issues)
 
 ## 🚀 Deployment
 
