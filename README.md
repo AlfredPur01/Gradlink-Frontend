@@ -107,7 +107,7 @@ Test the platform with these pre-configured demo accounts:
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-username/gradlink-platform.git
+   git clone https://github.com/AlfredPur01/gradlink-platform.git
    cd gradlink-platform
    \`\`\`
 
@@ -500,5 +500,5 @@ CMD ["npm", "start"]
 
 <div align="center">
   <p>Made with ❤️ by the GradLink Team</p>
-  <p>© 2024 GradLink. All rights reserved.</p>
+  <p>© 2025 GradLink. All rights reserved.</p>
 </div>
