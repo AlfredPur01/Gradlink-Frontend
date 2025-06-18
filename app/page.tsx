@@ -240,7 +240,7 @@ export default function HomePage() {
           <div className="text-center">
             <div className="text-2xl font-bold mb-4">GradLink</div>
             <p className="text-gray-400 mb-4">Connecting Alumni Across Generations</p>
-            <div className="text-sm text-gray-500">© 2024 GradLink. All rights reserved.</div>
+            <div className="text-sm text-gray-500">© 2025 GradLink. All rights reserved.</div>
           </div>
         </div>
       </footer>
